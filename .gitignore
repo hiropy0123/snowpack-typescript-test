@@ -88,3 +88,5 @@ dist
 sw.*
 
 .DS_Store
+
+/build/
